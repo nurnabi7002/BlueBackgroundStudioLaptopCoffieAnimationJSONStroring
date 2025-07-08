@@ -3,7 +3,7 @@
 This project displays a **developer-themed animated scene** using [Lottie](https://lottiefiles.com/) hosted animation. The animation includes a laptop on a desk with a cup of coffee, animated in a modern vector style.
 
 📺 **Live Preview:**  
-👉 [View on GitHub Pages](https://bblpcffcdanij.netlify.app/)
+👉 (https://bblpcffcdanij.netlify.app/)
 
 ---
 
